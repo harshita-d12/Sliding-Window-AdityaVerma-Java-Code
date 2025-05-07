@@ -24,7 +24,7 @@ Each problem from the playlist is implemented in Java, with easy-to-understand l
 | 8 | Pick Toys | `pickToys.java` |
 | 9 | Minimum Window Substring | `minimumWindowSubstring1.java`, `minimumWindowSubstring2.java` |
 
-> 🔄 More problems may be added as the playlist grows.
+
 
 ---
 
@@ -48,7 +48,7 @@ Each problem from the playlist is implemented in Java, with easy-to-understand l
 ## 👩‍💻 Author
 
 **Harshita Dutta**  
-📍 Jaipur, India  
+  
 🔗 [GitHub](https://github.com/harshita-d12) | 💼 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)
 
 ---
